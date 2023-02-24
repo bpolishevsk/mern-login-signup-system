@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/shawn-dsilva/mern-login-signup-component#readme",
   "dependencies": {
-    "@hapi/joi": "^16.1.8",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.4.1",
     "concurrently": "^6.0.0",
